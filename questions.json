@@ -1,0 +1,161 @@
+[{
+        "question": "Afirma o niega algo del sujeto de quien se habla.",
+        "answers": [{
+                "text": "Juicio",
+                "correct": true
+            },
+            {
+                "text": "Pregunta",
+                "correct": false
+            },
+            {
+                "text": "Demencia",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "¿Cuál de las siguientes es una ley del pensamiento?.",
+        "answers": [{
+                "text": "Ordenamiento lógico",
+                "correct": true
+            },
+            {
+                "text": "General de salud",
+                "correct": false
+            },
+            {
+                "text": "Ordenamiento de educación",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Es la tercera operación mental, que genera una conclusión a un nuevo conocimiento.",
+        "answers": [{
+                "text": "Operaciones matemáticas",
+                "correct": false
+            },
+            {
+                "text": "Reflexión",
+                "correct": false
+            },
+            {
+                "text": "Razonamiento",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": " Proviene del latin syllogismus que significa 'recojo conjuntamente'.",
+        "answers": [{
+                "text": "Siglo",
+                "correct": false
+            },
+            {
+                "text": "Siglismo",
+                "correct": true
+            },
+            {
+                "text": "Enlace",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Filósofo griego que nació en Estagira y murió en la ciudad de Calcis. Discípulo de Platón y fundador del Liceo, es considerado uno de los más importantes pensadores de la humanidad.",
+        "answers": [{
+                "text": "Socrates",
+                "correct": false
+            },
+            {
+                "text": "Aristóreles",
+                "correct": true
+            },
+            {
+                "text": "Hegel",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Es una palabra o una frase que denota un individuo o una clase o el componente proposicional que expresa.",
+        "answers": [{
+                "text": "Termino menor",
+                "correct": false
+            },
+            {
+                "text": "Termino mayor",
+                "correct": false
+            },
+            {
+                "text": "Termino enlace",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "¿Qué juicio pertenece al enunciado 'Todo niño es inocente'?.",
+        "answers": [{
+                "text": "Universal, afirmativo",
+                "correct": true
+            },
+            {
+                "text": "Universal negativo",
+                "correct": false
+            },
+            {
+                "text": "Particular Afirmativo",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Proposiciones categórica que se refiere a un sujeto específico o singular.",
+        "answers": [{
+                "text": "Particular",
+                "correct": true
+            },
+            {
+                "text": "Universal",
+                "correct": false
+            },
+            {
+                "text": "Contradicción",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "¿Qué juicio pertenece al enunciado 'Ningún hombre es inmortal'?.",
+        "answers": [{
+                "text": "Universal, afirmativo",
+                "correct": false
+            },
+            {
+                "text": "particular, negativo",
+                "correct": false
+            },
+            {
+                "text": "Universal, negativo",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "¿Cuáles son los elementos del juicio?.",
+        "answers": [{
+                "text": "Verbo, conclusión y premisa",
+                "correct": false
+            },
+            {
+                "text": "Sujeto, predicado y verbos",
+                "correct": true
+            },
+            {
+                "text": "introducción, predicado y sujeto",
+                "correct": false
+            }
+        ]
+    }
+]
